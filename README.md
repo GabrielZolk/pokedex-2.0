@@ -1,4 +1,4 @@
-# POKEDEX FEITA COM JAVASCRIPT 🟡
+# POKEDEX FEITA COM JAVASCRIPT PURO 🟡
 
 <br>
 
@@ -19,5 +19,5 @@
 
 <br>
 
-🔗 [image](https://gabrielzolk.github.io/pokedex-2.0/)
+🔗 [Link](https://gabrielzolk.github.io/pokedex-2.0/)
 
